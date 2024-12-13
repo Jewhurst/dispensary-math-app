@@ -1,6 +1,6 @@
 # BudMath Dispensary Calculator
 
-A simple, user-friendly web application that helps convert ounces to grams and calculate various dispensary measurement combinations. https://www.budmath.com
+A simple, user-friendly web application that helps convert ounces to grams and calculate various dispensary measurement combinations. [Budmath.com](https://www.budmath.com)
 
 ## Features
 
